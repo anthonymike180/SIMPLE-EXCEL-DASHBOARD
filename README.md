@@ -1,2 +1,11 @@
 # SIMPLE-EXCEL-DASHBOARD
-This dashboard analyzes bike sales performance with key metrics such as total revenue, customer demographics, purchase frequency, and product category trends. It includes interactive charts and slicers that allow users to explore sales by region, gender, age group, and bike type for quick decision-making and insights.
+
+## Description
+This is an interactive Excel dashboard I created to analyze bike sales data and uncover key business insights. The dashboard brings together multiple metrics in one place, allowing users to easily explore sales performance across different customer segments.
+
+## Files
+- <a href="https://github.com/anthonymike180/SIMPLE-EXCEL-DASHBOARD/blob/main/Bike%20Sales.xlsx">Dataset</a>
+- <a href="https://github.com/anthonymike180/SIMPLE-EXCEL-DASHBOARD/blob/main/Simple%20Excel%20dashboard.xlsx">Worksheet</a>
+
+## Result
+![Bike Sales Dashboard](https://github.com/anthonymike180/SIMPLE-EXCEL-DASHBOARD/blob/main/Screenshot%20(75).png)
