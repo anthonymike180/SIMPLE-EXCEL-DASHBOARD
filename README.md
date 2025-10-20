@@ -9,6 +9,7 @@ This is an interactive Excel dashboard I created to analyze bike sales data and 
 
 ## Result
 <p align="center">
-  <img src="https://github.com/anthonymike180/SIMPLE-EXCEL-DASHBOARD/blob/main/Screenshot%20(75).png" width="600">
+  <img src="https://github.com/anthonymike180/SIMPLE-EXCEL-DASHBOARD/raw/main/Screenshot%20(75).png" width="700">
 </p>
+
 
