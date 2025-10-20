@@ -8,4 +8,7 @@ This is an interactive Excel dashboard I created to analyze bike sales data and 
 - <a href="https://github.com/anthonymike180/SIMPLE-EXCEL-DASHBOARD/blob/main/Simple%20Excel%20dashboard.xlsx">Worksheet</a>
 
 ## Result
-![Bike Sales Dashboard](https://github.com/anthonymike180/SIMPLE-EXCEL-DASHBOARD/blob/main/Screenshot%20(75).png)
+<p align="center">
+  <img src="https://github.com/anthonymike180/SIMPLE-EXCEL-DASHBOARD/blob/main/Screenshot%20(75).png" width="600">
+</p>
+
