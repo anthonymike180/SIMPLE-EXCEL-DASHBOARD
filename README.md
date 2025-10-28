@@ -1,4 +1,4 @@
-# 🚴‍♂️ Simple Bike Sales Excel Dashboard
+#  Simple Bike Sales Excel Dashboard
 
 This project features an interactive **Bike Sales Dashboard** built in **Microsoft Excel** to analyze customer purchasing behavior based on demographics such as **Age**, **Gender**, **Marital Status**, **Income**, and **Region**.
 
@@ -6,7 +6,7 @@ The goal of this dashboard is to provide **quick insights** into key sales trend
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 <p align="center">
   <img src="https://github.com/anthonymike180/SIMPLE-EXCEL-DASHBOARD/raw/main/Screenshot%20(75).png" width="700">
@@ -14,7 +14,7 @@ The goal of this dashboard is to provide **quick insights** into key sales trend
 
 ---
 
-## 🛠 Tools & Features Used
+##  Tools & Features Used
 
 | Task            | Excel Feature Used |
 |----------------|-------------------|
@@ -25,7 +25,7 @@ The goal of this dashboard is to provide **quick insights** into key sales trend
 
 ---
 
-## 📊 Insights from the Dashboard
+##  Insights from the Dashboard
 
 - **Highest bike purchases** come from individuals within the **Middle Age group**.
 - **Married customers** tend to buy more bikes than singles.
@@ -34,7 +34,7 @@ The goal of this dashboard is to provide **quick insights** into key sales trend
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 | File Name                | Description |
 |--------------------------|-------------|
@@ -43,7 +43,7 @@ The goal of this dashboard is to provide **quick insights** into key sales trend
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Download** the Excel file from this repository.
 2. Open it in **Excel (Desktop — recommended for full slicer functionality)**.
@@ -52,7 +52,7 @@ The goal of this dashboard is to provide **quick insights** into key sales trend
 
 ---
 
-## ✅ Purpose of This Project
+##  Purpose of This Project
 
 This project demonstrates my ability to:
 
@@ -62,17 +62,10 @@ This project demonstrates my ability to:
 
 ---
 
-## 👨‍💼 Author 
+##  Author 
 
 Anthony Michael 
 anthonymike180@gmail.com
 
 ---
 
-## 📬 Feedback & Collaboration
-
-If you have suggestions or would like to collaborate on more **Excel / Data Analysis projects**, feel free to connect!
-
----
-
-⭐ **If you found this useful, don’t forget to star this repository!**
